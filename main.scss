@@ -1,0 +1,13 @@
+$color4: #fff;
+$bgColor: rgb(0, 217, 255);
+
+header {
+  background-color: $bgColor;
+  h1 {
+    font-size: 3rem;
+  }
+
+  p {
+    color: $color4;
+  }
+}
